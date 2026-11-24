@@ -242,7 +242,7 @@ The Flow Manager course is for people who manage service delivery. It covers flo
 - [Who is responsible for the portfolio Kanban?](https://agilefever.com/who-is-responsible-for-managing-the-portfolio-kanban/)
 - [Corporate Kanban training: which teams to train first](https://agilefever.com/corporate-kanban-training/)
 - [Kanban for IT operations and support: a training plan for the whole service desk](https://agilefever.com/kanban-training-for-it-operations/)
-- Scaling Kanban across the enterprise
+- [Scaling Kanban across the enterprise](https://agilefever.com/kanban-rollout-plan/)
 - Predictability and forecasting with flow data
 
 ### Step 13: Kanban Coaching Professional (KCP) and Next Steps
